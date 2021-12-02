@@ -1,0 +1,28 @@
+D:\_LabWorks\C#\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.exe
+D:\_LabWorks\C#\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.deps.json
+D:\_LabWorks\C#\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.json
+D:\_LabWorks\C#\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.dev.json
+D:\_LabWorks\C#\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.dll
+D:\_LabWorks\C#\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.pdb
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.AssemblyReference.cache
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.GeneratedMSBuildEditorConfig.editorconfig
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfoInputs.cache
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfo.cs
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.CoreCompileInputs.cache
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.dll
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.pdb
+D:\_LabWorks\C#\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.genruntimeconfig.cache
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.exe
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.deps.json
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.json
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.dev.json
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.dll
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\bin\Debug\netcoreapp3.1\Lab14.pdb
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.AssemblyReference.cache
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfoInputs.cache
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfo.cs
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.CoreCompileInputs.cache
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.dll
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.pdb
+D:\NUWM\3 семестр\Programming\Lab sivirin\Lab14\Lab14\obj\Debug\netcoreapp3.1\Lab14.genruntimeconfig.cache
